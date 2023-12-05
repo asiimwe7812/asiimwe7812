@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asiimwe7812
-- 👀 I’m interested in java
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on java
+- 👀 I’m interested in React native
+- 🌱 I’m currently learning redux
+- 💞️ I’m self driven software engineer  with great passion
 - 📫 How to reach me asiimwe7610@gmail.com 
 
 <!---
